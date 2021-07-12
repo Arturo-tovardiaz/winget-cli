@@ -7,8 +7,8 @@ This repository contains the source code for the Windows Package Manager Client 
 The packages available to the client are in the [Community repo](https://github.com/microsoft/winget-pkgs).
 
 > The Windows Package Manager project is in Preview. We welcome all feedback, and that feedback might lead to big (maybe even breaking) changes.
-
-## Installing the client
+ 
+## Installing the client.
 
 > The client requires Windows 10 1809 (build 17763) or later at this time.
 
